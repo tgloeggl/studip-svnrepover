@@ -1,0 +1,5 @@
+pluginname=SvnRepoVersion
+pluginclassname=SvnRepoVersion
+origin=virtUOS
+version=1.0
+studipMinVersion=3.2
